@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Anjali Chaubey
 
-<!--
-**chaubeyanjali/chaubeyanjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 College student passionate about coding and problem-solving  
+💻 Actively learning Data Structures & Algorithms  
+📐 Exploring system design fundamentals step by step  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Python  
+- Data Structures & Algorithms  
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Certifications
+- Oracle AI Foundations Course: https://tinyurl.com/certificate-AI-foundation
+- Infosys Springboard – Data Structures: https://tinyurl.com/certificate-DS
+- Infosys Springboard – Python Programming: https://tinyurl.com/certificate-python
+
+### 📌 Coding Platforms
+- LeetCode – Practicing DSA regularly  
+- GitHub – Sharing projects and learning journey  
+
+### 🎯 Goals
+- Build a strong DSA foundation  
+- Improve coding consistency  
+- Prepare for internships and placements  
+
+🌱 Learning every day and growing one problem at a time.
+
