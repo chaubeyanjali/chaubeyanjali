@@ -1,48 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Hi%20There,%20I'm%20Anjali%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSc%20IT%20Student%20%7C%20Aspiring%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF2E92,100:FFD400&height=230&section=header&text=PLAYER%20ONE:%20ANJALI%20CHAUBEY&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSc%20IT%20Student%20%7C%20Insert%20Code%20to%20Continue&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://github.com/chaubeyanjali">
-  <img src="https://komarev.com/ghpvc/?username=chaubeyanjali&color=7dd3fc&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=chaubeyanjali&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 </a>
-<img src="https://img.shields.io/github/followers/chaubeyanjali?label=Followers&style=flat-square&color=7dd3fc"/>
+<img src="https://img.shields.io/github/followers/chaubeyanjali?label=FOLLOWERS&style=for-the-badge&color=FF2E92&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Bsc+IT+Student;Python+%7C+C%2B%2B+%7C+Java+Developer;Building+AI-Powered+Applications;Always+Learning,+Always+Building&font=Fira+Code&center=true&width=500&height=50&color=7dd3fc&vCenter=true&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=BSc+IT+Student;Python+%7C+C%2B%2B+%7C+Java;Building+AI-Powered+Apps;Always+Learning,+Always+Building&font=Press+Start+2P&center=true&width=600&height=60&colors=00E5FF,FF2E92,FFD400&vCenter=true&size=14&pause=1500"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:FF2E92,100:FFD400&height=4&section=header" width="100%"/>
 
-## 🧑‍💻 Who I Am
+## 👾 Who I Am
 
-```typescript
-const anjaliChaubey = {
-  title: "BSc IT Student",
-  location: "India",
-  currentFocus: "AI-powered applications & full stack development",
-  languages: ["Python", "C++", "Java"],
-  webTech: ["HTML5", "CSS3", "JavaScript"],
-  frameworks: ["Flask"],
-  databases: ["MySQL", "SQLAlchemy"],
-  tools: ["Git", "GitHub", "Kaggle", "Google APIs"],
-  concepts: [
-    "Data Structures",
-    "Object-Oriented Programming",
-    "REST APIs",
-    "CRUD Operations",
-    "API Integration",
-    "SDLC",
-    "Debugging",
-    "Unit Testing",
-    "Agile Methodology (Basic)"
-  ],
-  funFact: "I love turning documents into answers 📄🤖"
-};
-```
+<table>
+<tr><td>
 
-<br/>
+**Role:** BSc IT Student
+**Focus:** AI-powered applications & full stack development
+**Languages:** Python, C++, Java
+**Web:** HTML5, CSS3, JavaScript
+**Frameworks:** Flask
+**Databases:** MySQL, SQLAlchemy
+**Tools:** Git, GitHub, Kaggle, Google APIs
+**Core Concepts:** Data Structures, OOP, REST APIs, CRUD Operations, API Integration, SDLC, Debugging, Unit Testing, Agile (Basic)
+**Currently exploring:** Retrieval-Augmented Generation & document intelligence
+
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD400,50:FF2E92,100:00E5FF&height=4&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -50,18 +41,14 @@ const anjaliChaubey = {
 <tr>
 <td width="100%">
 
-**[RAG PDF Q&A](https://github.com/chaubeyanjali/RAG-PDF-QA)**
+**[RAG PDF Q&A](https://github.com/chaubeyanjali/RAG-PDF-Q-A-app)**
 Built an AI-powered application that uses Retrieval-Augmented Generation (RAG) to answer questions from PDF documents with accurate document and page citations.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaubeyanjali&repo=RAG-PDF-QA&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 🛠️ Tech Stack
+## 🎮 Tech Stack
 
 **Languages**
 <br/>
@@ -83,46 +70,37 @@ Built an AI-powered application that uses Retrieval-Augmented Generation (RAG) t
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,kaggle"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:FF2E92,100:FFD400&height=4&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chaubeyanjali&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaubeyanjali&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="42%"/>
+<img src="https://streak-stats.demolab.com/?user=chaubeyanjali&theme=radical" width="70%"/>
 
-<img src="https://streak-stats.demolab.com/?user=chaubeyanjali&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%"/>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chaubeyanjali&theme=nord&no-frame=true&row=1&column=7"/>
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaubeyanjali&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaubeyanjali&theme=react-dark&color=FF2E92&line=00E5FF&point=FFD400&area=true&hide_border=true"/>
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD400,50:FF2E92,100:00E5FF&height=4&section=header" width="100%"/>
 
-## 🤝 Connect With Me
+## 🕹️ Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anjali-chaubey-4b004639a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 <a href="mailto:anjalichaubey872@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-FF2E92?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD400,50:FF2E92,100:00E5FF&height=130&section=footer"/>
