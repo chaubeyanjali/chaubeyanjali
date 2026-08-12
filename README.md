@@ -75,6 +75,8 @@ Built an AI-powered application that uses Retrieval-Augmented Generation (RAG) t
 ## 📊 GitHub Stats
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chaubeyanjali&show_icons=true&theme=radical&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaubeyanjali&layout=compact&theme=radical" width="42%"/>
 
 <img src="https://streak-stats.demolab.com/?user=chaubeyanjali&theme=radical" width="70%"/>
 
