@@ -20,15 +20,15 @@
 <table>
 <tr><td>
 
-**Role:** BSc IT Student
-**Focus:** AI-powered applications & full stack development
-**Languages:** Python, C++, Java
-**Web:** HTML5, CSS3, JavaScript
-**Frameworks:** Flask
-**Databases:** MySQL, SQLAlchemy
-**Tools:** Git, GitHub, Kaggle, Google APIs
-**Core Concepts:** Data Structures, OOP, REST APIs, CRUD Operations, API Integration, SDLC, Debugging, Unit Testing, Agile (Basic)
-**Currently exploring:** Retrieval-Augmented Generation & document intelligence
+**Role:** BSc IT Student<br/>
+**Focus:** AI-powered applications & full stack development<br/>
+**Languages:** Python, C++, Java<br/>
+**Web:** HTML5, CSS3, JavaScript<br/>
+**Frameworks:** Flask<br/>
+**Databases:** MySQL, SQLAlchemy<br/>
+**Tools:** Git, GitHub, Kaggle, Google APIs<br/>
+**Core Concepts:** Data Structures, OOP, REST APIs, CRUD Operations, API Integration, SDLC, Debugging, Unit Testing, Agile (Basic)<br/>
+**Currently exploring:** Retrieval-Augmented Generation & document intelligence<br/>
 
 </td></tr>
 </table>
