@@ -46,6 +46,22 @@ Built an AI-powered application that uses Retrieval-Augmented Generation (RAG) t
 
 </td>
 </tr>
+<tr>
+<td width="100%">
+
+**[AI-PPT-Generator](https://github.com/chaubeyanjali/AI-PPT-Generator.git)**
+AI-powered tool that automatically generates structured PowerPoint presentations from a given topic using Google AI APIs, simplifying and automating the presentation creation process.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**[CineMatcher](https://github.com/chaubeyanjali/CineMatcher.git)**
+Collaborative movie-matching platform that lets friends create rooms, discover movies, vote together, and find a movie everyone agrees on. Built with React and integrated movie APIs for real-time movie discovery.
+
+</td>
+</tr
 </table>
 
 ## 🎮 Tech Stack
